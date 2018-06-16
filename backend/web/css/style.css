@@ -1,0 +1,51 @@
+body > .header .logo {
+  font-family: inherit;
+}
+body > .header .navbar .nav > li > a > .badge {
+  position: absolute;
+  top: 4px;
+  right: 0;
+  font-size: 75%;
+}
+body .navbar-nav > .notifications-menu > .dropdown-menu > li .menu > li > a > .glyphicon,
+body .navbar-nav > .notifications-menu > .dropdown-menu > li .menu > li > a > .fa,
+body .navbar-nav > .notifications-menu > .dropdown-menu > li .menu > li > a > .ion {
+  background: none;
+  color: inherit;
+}
+body .user-panel > .info {
+  padding-left: 10px;
+}
+
+.articles-fixed-part {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #fff;
+}
+
+#tmpButtons span {
+  cursor: pointer;
+  color: #fff;
+  background-color: #0b93d5;
+}
+
+.remove-button {
+  display: block;
+  text-align: right;
+  padding-bottom: 16px;
+  margin: 16px;
+}
+
+.control-label {
+  display: block;
+}
+
+.bootstrap-tagsinpu {
+  width: 100%;
+}
+
+.bootstrap-tagsinput input {
+  width: 100% !important;
+}
+/*# sourceMappingURL=style.map *//*# sourceMappingURL=style.map */
